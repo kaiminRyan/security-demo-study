@@ -1,0 +1,3 @@
+security:
+  basic:
+    enabled: false  #关掉Spring security  true时默认的名字时user
